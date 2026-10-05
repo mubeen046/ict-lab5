@@ -1,2 +1,3 @@
 Git is a distributed version control system that tracks changes in files so many developers can work together without overwriting each other's work.
 GitHub is a website that hosts Git repositories online.
+Summary: Git tracks history, branches let us work safely, pull requests let teams review changes.
